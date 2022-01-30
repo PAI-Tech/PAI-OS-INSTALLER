@@ -9,9 +9,9 @@ import os
 
 class PAIOSInstaller:
 
-    def __init__(self,pai_folder):
-        print("PAI O/S Installer starting")
-        self.pai_folder = pai_folder
+    def __init__(self):
+        print("PAI O/S Installer starting for O/S " + os.name)
+        self.pai_folder = "/var/PAI/"
         self.make_dir(self.pai_folder)
             
         
