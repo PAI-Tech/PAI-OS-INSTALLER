@@ -1,9 +1,9 @@
 from PAIOS import PAIOSInstaller 
 vp_folders=["Apps","Backup","Bots","Cache","Config","Logs","Systems"]
-apps_folder = ["Dusty"]
+apps_folder = []
 backup_folder = ["PAI-DDB"]
 bots_folder = []
-cache_folder = ["PAI-BOT"]
+cache_folder = []
 config_folder = []
 logs_folder = ["PAI-Monitor"]
 system_folder = ["Scripts"]
