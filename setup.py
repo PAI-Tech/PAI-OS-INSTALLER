@@ -24,6 +24,7 @@ cache_folder = []
 config_folder = []
 logs_folder = ["PAI-Monitor"]
 system_folder = ["Scripts"]
+bots_root_folder = []
 
 poi = PAIOSInstaller()
 

@@ -12,7 +12,9 @@ class PAIOSInstaller:
     def __init__(self):
         print("PAI O/S Installer starting for O/S " + os.name)
         self.pai_folder = "/var/PAI/"
+        self.bots_root_folder = "/Bots/"
         self.make_dir(self.pai_folder)
+        self.make_dir(self.bots_root_folder)
             
         
     
