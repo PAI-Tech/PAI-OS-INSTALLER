@@ -16,7 +16,7 @@ as published by the Free Software Foundation; either version
 from PAIOS import PAIOSInstaller 
 
 #Local varibles
-vp_folders=["Apps","Backup","Bots","Cache","Config","Logs","Systems"]
+vp_folders=["Apps","Backup","Bots","Cache","Config","Logs","System"]
 apps_folder = []
 backup_folder = ["PAI-DDB"]
 bots_folder = []
